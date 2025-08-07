@@ -32,7 +32,7 @@ A simple Node.js-based FinTech API for user account management including deposit
 ## 📦 Installation and Project Run Instructions 
 
 ```bash
-git clone https://github.com/your-username/fintech-api.git
+git clone https://github.com/Katha-Sikdar/fintech-api-with-swaggerDocuments.git
 cd fintech-api
 npm install
 ```
